@@ -41,7 +41,9 @@ This system enables real-time technical issue resolution by retrieving relevant 
                                                           v
                                                    AI Response
 ```
-⚙️ Tech Stack
+---
+
+## ⚙️ Tech Stack
 🐍 Python 3.11
 
 📚 LangChain, LangChain Community, LangChain Groq
