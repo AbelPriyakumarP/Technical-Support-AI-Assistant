@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+requests
+faiss-cpu
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+numpy
+PyYAML
+mlflow

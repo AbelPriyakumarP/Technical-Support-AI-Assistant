@@ -1,0 +1,9 @@
+knowledge_base:
+  source_directory: "./knowledge_base"
+faiss:
+  index_path: "./faiss_index.index"
+groq:
+  api_key: "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"
+llm:
+  model: "llama-3.1-8b-instant"
+  temperature: 0.1
