@@ -18,7 +18,7 @@ This system enables real-time technical issue resolution by retrieving relevant 
 ---
 ## ScreenShot
 
-![image alt]()
+![image alt](https://github.com/AbelPriyakumarP/Technical-Support-AI-Assistant/blob/d91344830bbb77c91d44a55a6746a865025c5dba/Screenshot%202025-07-09%20214000.png)
 ---
 
 ## 🖥️ Architecture Overview
