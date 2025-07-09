@@ -16,6 +16,10 @@ This system enables real-time technical issue resolution by retrieving relevant 
 - 🖥️ Live **chat history**, **agent avatar**, and **real-time system clock**
 
 ---
+## ScreenShot
+
+![image alt]()
+---
 
 ## 🖥️ Architecture Overview
 
@@ -53,7 +57,7 @@ This system enables real-time technical issue resolution by retrieving relevant 
 🐳 Docker containerization
 
 ---
-
+```
 technical_support_ai/
 ├── api/
 │   └── main.py               # FastAPI backend
@@ -74,6 +78,7 @@ technical_support_ai/
 ├── Dockerfile                # Docker build config
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
+```
 ---
 ##📦 Setup & Installation
 ##1️⃣ Clone the repository:
@@ -120,5 +125,5 @@ http://localhost:8501/ → Custom Streamlit AI Dashboard
 ```
 ---
 ## 👨‍💻 Author
-Abel — 2025
-Connect: [LinkedIn](https://www.linkedin.com/in/abel-priyakumar-p/) | GitHub
+Abel Priyakumar P— 2025
+Connect: [LinkedIn](https://www.linkedin.com/in/abel-priyakumar-p/) | Email:abelpriyakumar@gmail.com
